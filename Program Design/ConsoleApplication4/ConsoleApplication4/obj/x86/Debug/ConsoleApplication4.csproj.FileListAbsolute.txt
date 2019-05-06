@@ -1,0 +1,10 @@
+C:\Users\Rox\Desktop\C sharp\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Rox\Desktop\C sharp\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Rox\Desktop\C sharp\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rox\Desktop\C sharp\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\Rox\Desktop\C sharp\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\R\Desktop\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\R\Desktop\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\R\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\R\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\R\Desktop\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\R\documents\visual studio 2010\Projects\MidHW01\MidHW01\bin\Debug\MidHW01.exe
+C:\Users\R\documents\visual studio 2010\Projects\MidHW01\MidHW01\bin\Debug\MidHW01.pdb
+C:\Users\R\documents\visual studio 2010\Projects\MidHW01\MidHW01\obj\x86\Debug\MidHW01.exe
+C:\Users\R\documents\visual studio 2010\Projects\MidHW01\MidHW01\obj\x86\Debug\MidHW01.pdb
+C:\Users\R\documents\visual studio 2010\Projects\MidHW01\MidHW01\obj\x86\Debug\MidHW01.csprojResolveAssemblyReference.cache
